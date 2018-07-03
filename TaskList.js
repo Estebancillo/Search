@@ -37,6 +37,3 @@ renderRow(todo){
   }
 }
 
-TaskList.propTypes = {
-  todos: PropTypes.arrayOf(PropTypes.object).isRequiered,
-};
